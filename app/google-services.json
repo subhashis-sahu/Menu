@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "659837798007",
+    "firebase_url": "https://myroutine-68a56-default-rtdb.firebaseio.com",
+    "project_id": "myroutine-68a56",
+    "storage_bucket": "myroutine-68a56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659837798007:android:6fe6329dd52f60d79ae872",
+        "android_client_info": {
+          "package_name": "com.example.myroutine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yeW7Vsp5B06cQul8Wq07IJ26cm8zly4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
